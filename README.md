@@ -23,3 +23,7 @@ task 5 : initial mobility check
 
 video link : https://drive.google.com/file/d/1g-eQlkzSnLARhOyhjPkQyRDOYbowZeo8/view?usp=sharing
 
+task 6 : automation test
+
+video link : https://drive.google.com/file/d/1XJU_vKybMz5XtmTps_9mHPNoJV7tuOeL/view?usp=sharing
+
